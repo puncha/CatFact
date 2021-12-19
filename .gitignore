@@ -1,4 +1,3 @@
-
-kmCatFact/.gradle/
-
-kmCatFact/.idea/
+**/.gradle/
+**/.idea/
+**/cmake-build-debug/
